@@ -1,0 +1,59 @@
+{
+  "posts": [
+    "/hello-world-why-i-m-building-an-engineering-blog.html"
+  ],
+  "pages": [],
+  "tags": [
+    "/tag-career.html",
+    "/tag-engineering.html",
+    "/tag-learning.html",
+    "/tag-marmite.html",
+    "/tags.html"
+  ],
+  "authors": [],
+  "series": [],
+  "streams": [
+    "/streams.html"
+  ],
+  "archives": [
+    "/archive-2026.html",
+    "/archive.html"
+  ],
+  "feeds": [
+    "/index.rss",
+    "/tag-career.rss",
+    "/tag-engineering.rss",
+    "/tag-learning.rss",
+    "/tag-marmite.rss",
+    "/archive-2026.rss"
+  ],
+  "pagination": [
+    "/tag-career-1.html",
+    "/tag-engineering-1.html",
+    "/tag-learning-1.html",
+    "/tag-marmite-1.html",
+    "/archive-2026-1.html"
+  ],
+  "file_mappings": [],
+  "misc": [
+    "/index.html"
+  ],
+  "summary": {
+    "posts": 1,
+    "pages": 0,
+    "tags": 5,
+    "authors": 0,
+    "series": 0,
+    "streams": 1,
+    "archives": 2,
+    "feeds": 6,
+    "pagination": 5,
+    "file_mappings": 0,
+    "misc": 1,
+    "total": 21,
+    "meta": {
+      "url": "",
+      "absolute_urls": false
+    }
+  }
+}
