@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>vmagueta.run</title><link>http://</link><description></description><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><lastBuildDate>Thu, 26 Mar 2026 19:20:55 GMT</lastBuildDate><generator>marmite</generator><item><title>Hello, World: Why I’m Building an Engineering Blog</title><link>http:///hello-world-why-i-m-building-an-engineering-blog.html</link><category>engineering</category><category>career</category><category>learning</category><category>marmite</category><guid>http:///hello-world-why-i-m-building-an-engineering-blog.html</guid><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><source url="http://">index</source><content:encoded><![CDATA[<h1><a href="#why-start-a-blog-in-2026" aria-hidden="true" class="anchor" id="why-start-a-blog-in-2026"></a>Why start a blog in 2026?</h1>
-<p>In the world of technology, things move fast. We learn new tools, solve complex bugs, and optimize pipelines every single day. But if we don't document it, that knowledge often stays trapped in our local machines or becomes a blurry memory.</p>
-<p>That’s why I created <strong>vmagueta.run</strong>.</p>
-<h2><a href="#the-goal" aria-hidden="true" class="anchor" id="the-goal"></a>The Goal</h2>
-<p>This is my corner of the internet to:</p>
-<ul>
-<li><strong>Document learnings:</strong> Turning &quot;I figured it out&quot; into a permanent resource.</li>
-<li><strong>Share knowledge:</strong> Helping other engineers who might be facing the same data or infrastructure challenges.</li>
-<li><strong>Build in public:</strong> Showing the process, not just the final result.</li>
-</ul>
-<h2><a href="#the-technical-choice-why-marmite" aria-hidden="true" class="anchor" id="the-technical-choice-why-marmite"></a>The Technical Choice: Why Marmite?</h2>
-<p>I wanted something as efficient as the code I try to write. No heavy databases, no complex setups. I chose <strong>Marmite</strong> because it’s a minimalist Static Site Generator (SSG) that lets me focus on what matters: <strong>the content.</strong> It takes simple Markdown files and, through a GitHub Actions workflow, deploys them straight to production. Simple, fast, and version-controlled.</p>
-<h2><a href="#what-to-expect" aria-hidden="true" class="anchor" id="what-to-expect"></a>What to expect</h2>
-<p>Moving forward, I’ll be sharing my journey through <strong>Data Engineering</strong>, <strong>Cloud Solutions</strong>, and the occasional technical hurdle I encounter along the way.</p>
-<p>If you’re interested in technology, data, or just want to see how this blog evolves, stay tuned!</p>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>vmagueta.run</title><link>https://vmagueta.run</link><description></description><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><lastBuildDate>Thu, 26 Mar 2026 20:51:35 GMT</lastBuildDate><generator>marmite</generator><item><title>Performance as a Standard: Engineering vmagueta.run</title><link>https://vmagueta.run/performance-as-a-standard-engineering-vmagueta-run.html</link><description><![CDATA["Why I chose a Rust-based stack to document high-scale infrastructure for global luxury brands."]]></description><author>victormagueta</author><category>engineering</category><category>rust</category><category>python</category><category>devops</category><guid>https://vmagueta.run/performance-as-a-standard-engineering-vmagueta-run.html</guid><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><source url="https://vmagueta.run">index</source><content:encoded><![CDATA[<p>In 2026, <strong>&quot;it works&quot;</strong> is the bare minimum. In high-scale infrastructure, the only metric that truly separates the seniors from the juniors is <strong>efficiency</strong>. ⚡️</p>
+<p>My name is <strong>Victor</strong>, and I’m a Software Engineer focused on building and scaling backend ecosystems for <strong>Global Luxury Houses</strong>. When your code powers the digital presence of some of the world's most iconic fashion brands across Europe, US, and APAC, every millisecond in the pipeline is a liability.</p>
 <hr />
-<p><em>Feel free to connect with me on <a href="https://www.linkedin.com/in/victormsoler/">LinkedIn</a>!</em></p>
+<h3><a href="#the-philosophy-why-marmite-" aria-hidden="true" class="anchor" id="the-philosophy-why-marmite-"></a>The Philosophy: Why Marmite? 🦀</h3>
+<p>I didn't choose <strong>Marmite</strong> because it was easy. I chose it because it aligns with my technical philosophy: <strong>Rust-driven, minimalist, and statically optimized.</strong></p>
+<p>In an era of bloated web frameworks, I prefer the &quot;Zero-Cost Abstractions&quot; approach. This blog is a reflection of the same standards I’m bringing to high-stakes production environments:</p>
+<ul>
+<li><strong>Python</strong> 🐍 for the core logic and flexibility.</li>
+<li><strong>Rust</strong> 🦀 for the heavy lifting (like our recent migration to <code>uv</code>).</li>
+<li><strong>Ansible &amp; K8s</strong> ☸️ for global orchestration and reliability.</li>
+</ul>
+<hr />
+<h3><a href="#️-what-youll-find-here" aria-hidden="true" class="anchor" id="️-what-youll-find-here"></a>🛠️ What You’ll Find Here</h3>
+<p>This isn't a &quot;Hello World&quot; blog. It's a technical log from the trenches of <strong>Platform Engineering</strong>. Moving forward, I’ll be sharing deep dives into:</p>
+<ol>
+<li><strong>Optimizing CI/CD:</strong> How we slashed deployment times by <strong>80%</strong>.</li>
+<li><strong>Rust-powered Tooling:</strong> Why the future of Python development is being rewritten in Rust.</li>
+<li><strong>Infrastructure at Scale:</strong> Hard-earned lessons from managing global deployments.</li>
+</ol>
+<p>I'm not here to document a &quot;learning journey.&quot; I’m here to share the <strong>engineering standards</strong> that drive real-world production at scale.</p>
+<p><strong>The site is live. The pipelines are green. Let’s ship.</strong> 🚀</p>
+<hr />
+<p><em>Connect with me on <a href="https://www.linkedin.com/in/vmagueta/">LinkedIn</a> or check my latest commits on <a href="https://github.com/vmagueta">GitHub</a>.</em></p>
 ]]></content:encoded></item></channel></rss>

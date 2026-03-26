@@ -1,59 +1,64 @@
 {
   "posts": [
-    "/hello-world-why-i-m-building-an-engineering-blog.html"
+    "https://vmagueta.run/performance-as-a-standard-engineering-vmagueta-run.html"
   ],
   "pages": [],
   "tags": [
-    "/tag-career.html",
-    "/tag-engineering.html",
-    "/tag-learning.html",
-    "/tag-marmite.html",
-    "/tags.html"
+    "https://vmagueta.run/tag-python.html",
+    "https://vmagueta.run/tag-rust.html",
+    "https://vmagueta.run/tag-devops.html",
+    "https://vmagueta.run/tag-engineering.html",
+    "https://vmagueta.run/tags.html"
   ],
-  "authors": [],
+  "authors": [
+    "https://vmagueta.run/author-victormagueta.html",
+    "https://vmagueta.run/authors.html"
+  ],
   "series": [],
   "streams": [
-    "/streams.html"
+    "https://vmagueta.run/streams.html"
   ],
   "archives": [
-    "/archive-2026.html",
-    "/archive.html"
+    "https://vmagueta.run/archive-2026.html",
+    "https://vmagueta.run/archive.html"
   ],
   "feeds": [
-    "/index.rss",
-    "/tag-career.rss",
-    "/tag-engineering.rss",
-    "/tag-learning.rss",
-    "/tag-marmite.rss",
-    "/archive-2026.rss"
+    "https://vmagueta.run/index.rss",
+    "https://vmagueta.run/tag-python.rss",
+    "https://vmagueta.run/tag-rust.rss",
+    "https://vmagueta.run/tag-devops.rss",
+    "https://vmagueta.run/tag-engineering.rss",
+    "https://vmagueta.run/author-victormagueta.rss",
+    "https://vmagueta.run/archive-2026.rss"
   ],
   "pagination": [
-    "/tag-career-1.html",
-    "/tag-engineering-1.html",
-    "/tag-learning-1.html",
-    "/tag-marmite-1.html",
-    "/archive-2026-1.html"
+    "https://vmagueta.run/tag-python-1.html",
+    "https://vmagueta.run/tag-rust-1.html",
+    "https://vmagueta.run/tag-devops-1.html",
+    "https://vmagueta.run/tag-engineering-1.html",
+    "https://vmagueta.run/author-victormagueta-1.html",
+    "https://vmagueta.run/archive-2026-1.html"
   ],
   "file_mappings": [],
   "misc": [
-    "/index.html"
+    "https://vmagueta.run/index.html"
   ],
   "summary": {
     "posts": 1,
     "pages": 0,
     "tags": 5,
-    "authors": 0,
+    "authors": 2,
     "series": 0,
     "streams": 1,
     "archives": 2,
-    "feeds": 6,
-    "pagination": 5,
+    "feeds": 7,
+    "pagination": 6,
     "file_mappings": 0,
     "misc": 1,
-    "total": 21,
+    "total": 25,
     "meta": {
-      "url": "",
-      "absolute_urls": false
+      "url": "https://vmagueta.run",
+      "absolute_urls": true
     }
   }
 }

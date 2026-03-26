@@ -1,7 +1,20 @@
 ---
 name: vmagueta.run
 url: https://vmagueta.run
+default_author: victormagueta
 extra:
   colorscheme: dracula
   colormodetoggle: true
+authors:
+  victormagueta:
+    name: Victor Magueta
+    avatar: https://github.com/vmagueta.png
+    bio: >
+      Software Engineer focused on Platform Engineering and DevOps.
+      Building high-scale infrastructure for global luxury brands
+      using Rust and Python. Making performance a standard, not
+      an afterthought. 🦀🐍⚡️
+    links:
+      - ["GitHub", "https://github.com/vmagueta"]
+      - ["LinkedIn", "https://www.linkedin.com/in/victormsoler/"]
   

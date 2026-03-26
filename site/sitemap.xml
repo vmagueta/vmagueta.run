@@ -1,66 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/hello-world-why-i-m-building-an-engineering-blog.html</loc>
+    <loc>https://vmagueta.run/performance-as-a-standard-engineering-vmagueta-run.html</loc>
   </url>
   <url>
-    <loc>/tag-career.html</loc>
+    <loc>https://vmagueta.run/tag-python.html</loc>
   </url>
   <url>
-    <loc>/tag-engineering.html</loc>
+    <loc>https://vmagueta.run/tag-rust.html</loc>
   </url>
   <url>
-    <loc>/tag-learning.html</loc>
+    <loc>https://vmagueta.run/tag-devops.html</loc>
   </url>
   <url>
-    <loc>/tag-marmite.html</loc>
+    <loc>https://vmagueta.run/tag-engineering.html</loc>
   </url>
   <url>
-    <loc>/tags.html</loc>
+    <loc>https://vmagueta.run/tags.html</loc>
   </url>
   <url>
-    <loc>/streams.html</loc>
+    <loc>https://vmagueta.run/author-victormagueta.html</loc>
   </url>
   <url>
-    <loc>/archive-2026.html</loc>
+    <loc>https://vmagueta.run/authors.html</loc>
   </url>
   <url>
-    <loc>/archive.html</loc>
+    <loc>https://vmagueta.run/streams.html</loc>
   </url>
   <url>
-    <loc>/index.rss</loc>
+    <loc>https://vmagueta.run/archive-2026.html</loc>
   </url>
   <url>
-    <loc>/tag-career.rss</loc>
+    <loc>https://vmagueta.run/archive.html</loc>
   </url>
   <url>
-    <loc>/tag-engineering.rss</loc>
+    <loc>https://vmagueta.run/index.rss</loc>
   </url>
   <url>
-    <loc>/tag-learning.rss</loc>
+    <loc>https://vmagueta.run/tag-python.rss</loc>
   </url>
   <url>
-    <loc>/tag-marmite.rss</loc>
+    <loc>https://vmagueta.run/tag-rust.rss</loc>
   </url>
   <url>
-    <loc>/archive-2026.rss</loc>
+    <loc>https://vmagueta.run/tag-devops.rss</loc>
   </url>
   <url>
-    <loc>/tag-career-1.html</loc>
+    <loc>https://vmagueta.run/tag-engineering.rss</loc>
   </url>
   <url>
-    <loc>/tag-engineering-1.html</loc>
+    <loc>https://vmagueta.run/author-victormagueta.rss</loc>
   </url>
   <url>
-    <loc>/tag-learning-1.html</loc>
+    <loc>https://vmagueta.run/archive-2026.rss</loc>
   </url>
   <url>
-    <loc>/tag-marmite-1.html</loc>
+    <loc>https://vmagueta.run/tag-python-1.html</loc>
   </url>
   <url>
-    <loc>/archive-2026-1.html</loc>
+    <loc>https://vmagueta.run/tag-rust-1.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://vmagueta.run/tag-devops-1.html</loc>
+  </url>
+  <url>
+    <loc>https://vmagueta.run/tag-engineering-1.html</loc>
+  </url>
+  <url>
+    <loc>https://vmagueta.run/author-victormagueta-1.html</loc>
+  </url>
+  <url>
+    <loc>https://vmagueta.run/archive-2026-1.html</loc>
+  </url>
+  <url>
+    <loc>https://vmagueta.run/index.html</loc>
   </url>
 </urlset>
