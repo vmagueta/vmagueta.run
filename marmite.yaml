@@ -1,19 +1,22 @@
 ---
 name: vmagueta.run
 url: https://vmagueta.run
-default_author: victormagueta
+default_author: victormaguetasoler
 extra:
   colorscheme: dracula
   colormodetoggle: true
 authors:
-  victormagueta:
+  victormaguetasoler:
     name: Victor Magueta
     avatar: https://github.com/vmagueta.png
     bio: >
-      Software Engineer focused on Platform Engineering and DevOps.
-      Building high-scale infrastructure for global luxury brands
-      using Rust and Python. Making performance a standard, not
-      an afterthought. 🦀🐍⚡️
+      Software & Platform Engineer (and Professional Firefighter 🚒)
+      
+      "I’m Victor Magueta Soler. Some know me for my business ops background; others for my code. I live in the chaos where logic meets the metal.
+      
+      By day, I architect infrastructure for global luxury brands—yes, my code runs for Dior and Hermès, so if the site's down, it’s probably DNS. I’m a Python developer and a Rust enthusiast.
+
+      If you're looking for extreme automation, systems that don't blow up at 3 AM, and a healthy dose of technical sarcasm, you've reached the right server." 🦀🐍⚡️
     links:
       - ["GitHub", "https://github.com/vmagueta"]
       - ["LinkedIn", "https://www.linkedin.com/in/victormsoler/"]
