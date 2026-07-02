@@ -1,4 +1,4 @@
-
+---
 title: "Shipping EnvGate v1.0.0: Stable API, Zero Dependencies, and Smart .env Loading"
 date: 2026-07-02
 tags: [python, open-source, devops, envgate]
